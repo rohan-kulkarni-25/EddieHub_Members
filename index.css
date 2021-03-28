@@ -1,0 +1,66 @@
+.base {
+  background-image: url(bg.png);
+  background-size: 100%;
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 100%;
+  height: 98vmin;
+}
+
+.name {
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 18vmin;
+  font-size: 7vmax;
+  margin-bottom: 2vmin;
+}
+
+.subname {
+  margin-top: 2vmin;
+  color: white;
+  text-align: center;
+
+  padding-top: 2vmin;
+  font-size: 4vmax;
+}
+
+.chibi {
+  width: 50vmin;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box {
+  float: left;
+  padding: 1vmin;
+  margin: 1vmin;
+  width: fit-content;
+  border-style: solid;
+  border-color: white;
+  
+}
+
+.logo {
+  width: 10vmin;
+  margin-left: 4vmin;
+  padding-top: 1vmin;
+}
+
+body {
+  background-color: black;
+  
+}
+
+
+
+.foot{
+    margin: 1vmin;
+    padding: 1vmin;
+    font-size: 2vmax;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
