@@ -44,4 +44,4 @@
 
 
 <h2>What to do after Getting LinkedIn badge Url ?</h2>
- After this you have to Create a New issue with Template `Add My Profile to Website` And Fill the required details thats it !! Your issue will be reviewed by us and ask for any additional details if required !! Please Be Patient !!
+ ### After this you have to Create a New issue with Template `Add My Profile to Website` And Fill the required details thats it !! Your issue will be reviewed by us and ask for any additional details if required !! Please Be Patient !!
