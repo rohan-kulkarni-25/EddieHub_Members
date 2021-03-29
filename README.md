@@ -5,7 +5,7 @@
 </h3>
 <br>
 <h2>What is Required to add Myself in the Website ?</h2>
-<h3>To add yourself in the Website You have to Follow some Basic Steps.</h3>
+<h3>To add yourself to the Website You have to Follow some Basic Steps.</h3>
 <ul>
 <li>LinkedIn Badge URL</li>
 <li>GitHub Profile URL</li>
