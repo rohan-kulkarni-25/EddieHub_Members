@@ -17,7 +17,7 @@
 <h3>I think that everyone one of us use these Accounts So Its better to go with this. Suggestions Accepted !
 
 <h2>How to get the URl of LinkedIn Badges ?</h2>
-<h3>
+
 1. Open LinkedIn Profile Page.
 <img src="1.png" width="100%" >
 2. On Top Right Corner Click on `Edit your custom URL`
@@ -30,4 +30,3 @@
 <img src="5.png" width="100%" >
 6. Select any `Dark` version or `Light` Version of `Badge 1`<br>
 7. Copy the Link Given and This is the link for `LinkedIn Badge URL`
-</h3>
