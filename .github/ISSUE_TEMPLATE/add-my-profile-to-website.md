@@ -12,4 +12,4 @@ To add yourself to the Website You have to Follow some Basic Steps.
     1.LinkedIn Badge URL :-
     2.GitHub Profile URL :-
     3.Twitter Profile URL :-
-    4.Gmail Id :-
+    4.Instagram Profile URL :-
