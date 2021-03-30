@@ -10,11 +10,10 @@
 <li>LinkedIn Badge URL</li>
 <li>GitHub Profile URL</li>
 <li>Twitter Profile URL</li>
-<li>Gmail Id</li>
+<li>Instagram Profile URL</li>
 </ul>
 
-<h2>Why Only this much ? Why not anything link Instagram / Slack / Mails ?</h2>
-<h3>I think that everyone one of us use these Accounts So Its better to go with this. Suggestions Accepted !
+
 
 <h2>How to get the URl of LinkedIn Badges ?</h2>
 
