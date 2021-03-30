@@ -20,23 +20,23 @@
 
 ### 1.Open LinkedIn Profile Page.<br>
 
-<img src="1.png" width="100%" ><br>
+<img src="/assets/readme_img/1.png" width="100%" ><br>
 
 ### 2. On Top Right Corner Click on `Edit your custom URL`<br>
 
-<img src="2.png" width="100%" ><br>
+<img src="/assets/readme_img/2.png" width="100%" ><br>
 
 ### 3. Scroll down to open page and you will get `Public Profile Badge` In right side.<br>
 
-<img src="3.png" width="100%" ><br>
+<img src="/assets/readme_img/3.png" width="100%" ><br>
 
 ### 4.Now Step 1 I have did you just have to do Step 2<br>
 
-<img src="4.png" width="100%" ><br>
+<img src="/assets/readme_img/4.png" width="100%" ><br>
 
 ### 5. Go to the section of `Badge 1` and select the `size` to `Large 330 pixel width` Please do not select `Badge 2` because I have adjusted the size as per `Badge 1`<br>
 
-<img src="5.png" width="100%" ><br>
+<img src="/assets/readme_img/5.png" width="100%" ><br>
 
 ### 6. Select any `Dark` version or `Light` Version of `Badge 1`<br><br>
 
