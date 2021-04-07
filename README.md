@@ -1,4 +1,4 @@
-<h1 align="center">EddieHub Members</h1>    ** Under Update **
+<h1 align="center">EddieHub Members</h1>    ** Under Update ****
 
 <h2>What Exactly is this ?</h2>
 <h3>This is an Website which will help everyone of us know each other personally and get connected with each other. Yes there is a dedicated discord server for getting connected but due to timezone issue we dont get connected with all ! So I think this will work out well.
